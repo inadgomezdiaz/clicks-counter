@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/inadgomezdiaz/clicks-counter/precache-manifest.4c4d17f5957392cfab3de65b0a518e08.js"
+  "/clicks-counter/precache-manifest.f2d31dc3017bea5e855c9439af5e3719.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/inadgomezdiaz/clicks-counter/index.html", {
+workbox.routing.registerNavigationRoute("/clicks-counter/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

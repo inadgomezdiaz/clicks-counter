@@ -1,14 +1,14 @@
 {
-  "main.css": "/inadgomezdiaz/clicks-counter/static/css/main.2e751bed.chunk.css",
-  "main.js": "/inadgomezdiaz/clicks-counter/static/js/main.9060d741.chunk.js",
-  "main.js.map": "/inadgomezdiaz/clicks-counter/static/js/main.9060d741.chunk.js.map",
-  "static/js/1.6dd1b54b.chunk.js": "/inadgomezdiaz/clicks-counter/static/js/1.6dd1b54b.chunk.js",
-  "static/js/1.6dd1b54b.chunk.js.map": "/inadgomezdiaz/clicks-counter/static/js/1.6dd1b54b.chunk.js.map",
-  "runtime~main.js": "/inadgomezdiaz/clicks-counter/static/js/runtime~main.74e8bc2d.js",
-  "runtime~main.js.map": "/inadgomezdiaz/clicks-counter/static/js/runtime~main.74e8bc2d.js.map",
-  "static/media/logo-clickcounter.png": "/inadgomezdiaz/clicks-counter/static/media/logo-clickcounter.7a6b9214.png",
-  "static/css/main.2e751bed.chunk.css.map": "/inadgomezdiaz/clicks-counter/static/css/main.2e751bed.chunk.css.map",
-  "index.html": "/inadgomezdiaz/clicks-counter/index.html",
-  "precache-manifest.4c4d17f5957392cfab3de65b0a518e08.js": "/inadgomezdiaz/clicks-counter/precache-manifest.4c4d17f5957392cfab3de65b0a518e08.js",
-  "service-worker.js": "/inadgomezdiaz/clicks-counter/service-worker.js"
+  "main.css": "/clicks-counter/static/css/main.2e751bed.chunk.css",
+  "main.js": "/clicks-counter/static/js/main.9060d741.chunk.js",
+  "main.js.map": "/clicks-counter/static/js/main.9060d741.chunk.js.map",
+  "static/js/1.6dd1b54b.chunk.js": "/clicks-counter/static/js/1.6dd1b54b.chunk.js",
+  "static/js/1.6dd1b54b.chunk.js.map": "/clicks-counter/static/js/1.6dd1b54b.chunk.js.map",
+  "runtime~main.js": "/clicks-counter/static/js/runtime~main.c9682146.js",
+  "runtime~main.js.map": "/clicks-counter/static/js/runtime~main.c9682146.js.map",
+  "static/media/logo-clickcounter.png": "/clicks-counter/static/media/logo-clickcounter.7a6b9214.png",
+  "static/css/main.2e751bed.chunk.css.map": "/clicks-counter/static/css/main.2e751bed.chunk.css.map",
+  "index.html": "/clicks-counter/index.html",
+  "precache-manifest.f2d31dc3017bea5e855c9439af5e3719.js": "/clicks-counter/precache-manifest.f2d31dc3017bea5e855c9439af5e3719.js",
+  "service-worker.js": "/clicks-counter/service-worker.js"
 }
