@@ -1,14 +1,14 @@
 {
-  "main.css": "/inadgomezdiaz/Click-counter/static/css/main.2e751bed.chunk.css",
-  "main.js": "/inadgomezdiaz/Click-counter/static/js/main.9060d741.chunk.js",
-  "main.js.map": "/inadgomezdiaz/Click-counter/static/js/main.9060d741.chunk.js.map",
-  "static/js/1.6dd1b54b.chunk.js": "/inadgomezdiaz/Click-counter/static/js/1.6dd1b54b.chunk.js",
-  "static/js/1.6dd1b54b.chunk.js.map": "/inadgomezdiaz/Click-counter/static/js/1.6dd1b54b.chunk.js.map",
-  "runtime~main.js": "/inadgomezdiaz/Click-counter/static/js/runtime~main.75b4edb2.js",
-  "runtime~main.js.map": "/inadgomezdiaz/Click-counter/static/js/runtime~main.75b4edb2.js.map",
-  "static/media/logo-clickcounter.png": "/inadgomezdiaz/Click-counter/static/media/logo-clickcounter.7a6b9214.png",
-  "static/css/main.2e751bed.chunk.css.map": "/inadgomezdiaz/Click-counter/static/css/main.2e751bed.chunk.css.map",
-  "index.html": "/inadgomezdiaz/Click-counter/index.html",
-  "precache-manifest.c1439a3403fce12477f44ad53e4fe050.js": "/inadgomezdiaz/Click-counter/precache-manifest.c1439a3403fce12477f44ad53e4fe050.js",
-  "service-worker.js": "/inadgomezdiaz/Click-counter/service-worker.js"
+  "main.css": "/inadgomezdiaz/clicks-counter/static/css/main.2e751bed.chunk.css",
+  "main.js": "/inadgomezdiaz/clicks-counter/static/js/main.9060d741.chunk.js",
+  "main.js.map": "/inadgomezdiaz/clicks-counter/static/js/main.9060d741.chunk.js.map",
+  "static/js/1.6dd1b54b.chunk.js": "/inadgomezdiaz/clicks-counter/static/js/1.6dd1b54b.chunk.js",
+  "static/js/1.6dd1b54b.chunk.js.map": "/inadgomezdiaz/clicks-counter/static/js/1.6dd1b54b.chunk.js.map",
+  "runtime~main.js": "/inadgomezdiaz/clicks-counter/static/js/runtime~main.74e8bc2d.js",
+  "runtime~main.js.map": "/inadgomezdiaz/clicks-counter/static/js/runtime~main.74e8bc2d.js.map",
+  "static/media/logo-clickcounter.png": "/inadgomezdiaz/clicks-counter/static/media/logo-clickcounter.7a6b9214.png",
+  "static/css/main.2e751bed.chunk.css.map": "/inadgomezdiaz/clicks-counter/static/css/main.2e751bed.chunk.css.map",
+  "index.html": "/inadgomezdiaz/clicks-counter/index.html",
+  "precache-manifest.4c4d17f5957392cfab3de65b0a518e08.js": "/inadgomezdiaz/clicks-counter/precache-manifest.4c4d17f5957392cfab3de65b0a518e08.js",
+  "service-worker.js": "/inadgomezdiaz/clicks-counter/service-worker.js"
 }
