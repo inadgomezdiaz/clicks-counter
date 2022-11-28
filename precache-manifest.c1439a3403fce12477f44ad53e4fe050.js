@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/inadgomezdiaz/Click-counter/static/media/logo-clickcounter.7a6b9214.png"
   },
   {
-    "revision": "948e527026f276c50f39dd67ca75b77c",
+    "revision": "f2b13d35b4d0090156d077dfd0b21a4b",
     "url": "/inadgomezdiaz/Click-counter/index.html"
   }
 ];

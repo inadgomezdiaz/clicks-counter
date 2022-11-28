@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/inadgomezdiaz/Click-counter/precache-manifest.8e8a653ab24ba37e818a52a3299a3788.js"
+  "/inadgomezdiaz/Click-counter/precache-manifest.c1439a3403fce12477f44ad53e4fe050.js"
 );
 
 workbox.clientsClaim();
