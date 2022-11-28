@@ -12,16 +12,16 @@ class App extends React.Component {
     this.manejarClick = this.manejarClick.bind(this)
     this.reinciarContador = this.reinciarContador.bind(this)
   }
-  
+
   manejarClick() {
-    this.setState(({ numeroClicks }) => ({ numeroClicks : numeroClicks + 1 }));
+    this.setState(({ numeroClicks }) => ({ numeroClicks: numeroClicks + 1 }));
   }
-  
+
   reinciarContador() {
     this.setState(({ numeroClicks }) => ({ numeroClicks: 0 }));
   }
 
-
+  
   render() {
     return (
       <div className="App">
